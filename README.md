@@ -30,6 +30,8 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+
 - [SaaS/Hosted Platforms](#saashosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -42,61 +44,23 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 
+## Sector Overview & Market Dynamics
+
+The autonomous browser agent and intelligent web interaction sector is valued at approximately **$6B to $10B** (scaling toward **$70B+ by 2030** at an estimated CAGR exceeding 35–45%), bridging AI agents, cloud browser infrastructure, and enterprise RPA. The market is **moderately to highly fragmented** rather than winner-take-all: the complexity of anti-bot bypass, shifting DOM semantics, variable pricing, and distinct developer vs. enterprise use cases allow niche infrastructure specialists, open-source runtimes, and mega-cap cloud providers to coexist.
+
 ## SaaS/Hosted Platforms
 
-
-
-- **[Browserbase](https://browserbase.com)**  
-
-  Cloud serverless headless browser infrastructure built specifically for AI agents and web automation, featuring session replay, stealth proxies, and CAPTCHA solving.
-
-
-
-- **[MultiOn](https://multion.ai)**  
-
-  Cloud-hosted personal and enterprise AI web agent API capable of autonomously browsing websites, interacting with complex UIs, and executing multi-step online tasks.
-
-
-
-- **[Hyperbrowser](https://hyperbrowser.ai)**  
-
-  Managed cloud browser platform engineered for scaling AI browser agents, parallel Playwright/Puppeteer sessions, and structured web data extraction.
-
-
-
-- **[Playwright Cloud (Microsoft Playwright Workspaces / Azure App Testing)](https://playwright.dev)**  
-
-  Cloud-hosted parallel browser execution service enabling high-concurrency end-to-end testing and remote browser automation across Chromium, Firefox, and WebKit.
-
-
-
-- **[Apify](https://apify.com)**  
-
-  Cloud web scraping and browser automation platform offering serverless Actors, proxy rotation, and pre-built AI web-browsing integrations.
-
-
-
-- **[Scrapfly](https://scrapfly.io)**  
-
-  Cloud web scraping and headless browser API featuring anti-bot bypass, residential proxies, JavaScript rendering, and LLM-ready Markdown extraction.
-
-
-
-- **[ScrapingBee](https://scrapingbee.com)**  
-
-  Managed headless Chrome API handling proxy rotation, dynamic JavaScript rendering, and structured data extraction for web agents and scrapers.
-
-
-
-- **[Zyte (formerly Scrapinghub)](https://zyte.com)**  
-
-  Enterprise cloud web data extraction platform combining AI-powered automated parsing, headless browser rendering, and smart proxy management.
-
-
-
-- **[Steel.dev (Hosted Cloud)](https://steel.dev)**  
-
-  Managed cloud edition of the open-source Steel browser API providing stateful, sandboxed headless browser sessions for autonomous AI agents.
+| Platform | Estimated Scale / Valuation / Revenue | Starting Pricing Tier | Free Tier Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Playwright Cloud (Microsoft Playwright Testing)](https://playwright.dev)** | **~$3.1 Trillion** market cap (Microsoft) / Cloud enterprise scale | **$0.01 / test-minute** (Linux pay-as-you-go) | **30-day free trial** with **100 browser test minutes** (1 workspace limit per Azure subscription) | Managed cloud browser execution infrastructure providing high-concurrency end-to-end testing and multi-browser execution across Chromium, Firefox, and WebKit. |
+| **[Browserbase](https://browserbase.com)** | **$300M valuation** (Series B) / **~$3.6M+ ARR** | **$20/mo** (Developer Plan; overages at $0.12/browser hr) | **Free plan ($0/mo)**: 1 browser hour/mo, 3 concurrent sessions (max 15 min/session), 3 agent runs, and 1,000 fetch/search calls | Cloud serverless headless browser infrastructure built specifically for AI agents, featuring session replay, residential proxies, and auto-CAPTCHA solving. |
+| **[MultiOn](https://multion.ai)** | **$100M valuation** (Series A, backed by Amazon & General Catalyst) | **$20/mo** (Pro Tier) | **Free plan ($0/mo)**: Limited baseline credits/month for light personal browsing and developer task testing | Cloud-hosted personal and enterprise AI web agent API capable of autonomously browsing websites, interacting with complex UIs, and executing multi-step tasks. |
+| **[Zyte](https://zyte.com)** | **~$25M ARR** / Bootstrapped & $3M venture debt | **$0.13 / 1,000 requests** (Pay-As-You-Go; optional $100/mo commitment tier) | **30-day free trial** with **$5 one-time credit** (covers automated ban handling and browser-rendered extraction) | Enterprise cloud web data extraction platform combining AI-powered automated parsing, headless browser rendering, and smart proxy management. |
+| **[ScrapingBee](https://scrapingbee.com)** | **~$10M+ acquisition** (Acquired by Oxylabs) / **~$5M ARR** | **$19/mo** (Hobby Plan with 25,000 credits) | **One-time free trial**: **1,000 API credits** (no time limit, no credit card required) | Managed headless Chrome API handling proxy rotation, dynamic JavaScript rendering, and structured data extraction for web agents and scrapers. |
+| **[Apify](https://apify.com)** | **~$7.5M+ ARR** / $3.5M funding | **$19/mo** (Starter Plan; includes $19 platform credits) | **Free plan ($0/mo)**: **$5 monthly recurring credit**, 16 GB max RAM, 5 concurrent runs, and 5 datacenter proxies | Cloud web scraping and browser automation platform offering serverless Actors, proxy rotation, and pre-built AI web-browsing integrations. |
+| **[Scrapfly](https://scrapfly.io)** | **Bootstrapped / ~$1M–$3M estimated ARR** | **$30/mo** (Discovery Plan with 200,000 credits) | **Free plan ($0/mo)**: **1,000 credits** (no expiration, 5 concurrent requests, all 5 APIs enabled) | Cloud web scraping and headless browser API featuring anti-bot bypass, residential proxies, JavaScript rendering, and LLM-ready Markdown extraction. |
+| **[Hyperbrowser](https://hyperbrowser.ai)** | **Early-stage venture-backed** (Y Combinator, Accel, SV Angel) | **$30/mo** (Startup Plan with 30,000 credits) | **Free plan ($0/mo)**: **5,000 initial credits**, 1 concurrent browser session, and 7-day data retention | Managed cloud browser platform engineered for scaling AI browser agents, parallel Playwright/Puppeteer sessions, and structured web data extraction. |
+| **[Steel.dev (Hosted Cloud)](https://steel.dev)** | **Early-stage seed startup** (Creator of open-source Steel) | **$0.10 / browser hr** (Pay-as-you-go after trial) | **Launch plan ($0/mo)**: **$30 one-time credit** (~300 browser hrs), up to 10 concurrent browsers (15 min/session) | Managed cloud edition of the open-source Steel browser API providing stateful, sandboxed headless browser sessions for autonomous AI agents. |
 
 
 
